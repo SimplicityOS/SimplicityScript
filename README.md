@@ -109,7 +109,7 @@ print("Factorial of " + number + " is " + factorial(number))
 To install SimplicityScript, clone the repository and build the source:
 
 ```bash
-git clone https://github.com/iam-theunknown/SimplicityScript.git
+git clone [https://github.com/iam-theunknown/SimplicityScript.git](https://github.com/SimplicityOS/SimplicityScript)
 cd SimplicityScript
 make
 
